@@ -14,7 +14,21 @@ background-color: #ebebeb;
 }
 .sidebarChat__info {
     margin-left: 15px;
+    
 }
 .sidebarChat__info> p {
     margin: 0;
+    text-decoration: none;
 }
+.sidebarChat__info1 {
+    margin-left: 15px;
+    display: flex;
+    
+}
+
+    .sidebarChat__info1 > h2 {
+        font-size: 16px;
+        margin-bottom: 8px;
+        margin-top:0;
+        margin-left : 15px
+    }
