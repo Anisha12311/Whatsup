@@ -8,5 +8,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
+![image](https://user-images.githubusercontent.com/83083211/226965645-a546eba3-5abd-4a71-ae4a-10d8f8988e4f.png)
 
 
